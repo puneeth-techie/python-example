@@ -7,3 +7,4 @@ Resouces: https://www.programiz.com/
 3. Find Square Root Of Number
 4. Find Area Of Triangle
 5. Find Solution For Quadratic Equation
+6. Swapping Of Two Numbers
