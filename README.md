@@ -8,3 +8,4 @@ Resouces: https://www.programiz.com/
 4. Find Area Of Triangle
 5. Find Solution For Quadratic Equation
 6. Swapping Of Two Numbers
+7. Generate Random Numbers
