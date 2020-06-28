@@ -9,3 +9,5 @@ Resouces: https://www.programiz.com/
 5. Find Solution For Quadratic Equation
 6. Swapping Of Two Numbers
 7. Generate Random Numbers
+8. Convert Kilometers To Miles
+9. Convert Celsius To Farhenheit
