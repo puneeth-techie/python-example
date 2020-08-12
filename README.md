@@ -11,3 +11,6 @@ Resouces: https://www.programiz.com/
 7. Generate Random Numbers
 8. Convert Kilometers To Miles
 9. Convert Celsius To Farhenheit
+10. Finding The Given Year Is Leap Year Or Not
+11. Regular Expression
+12. Generator Example
